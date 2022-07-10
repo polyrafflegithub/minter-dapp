@@ -1,12 +1,12 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; // Replace with your own contract address
+const contractAddress = "0xbd8147EFf984F70c723B442412E6A8968551a568"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the fucking test of PolyRaffle website frontend!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
-const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
-const h1_presale_mint = "Pre-Sale Minting Open!!";
-const h1_public_mint = "Public Minting Open!!";
+const welcome_p = 'PolyRaffle is a decentralized lottery aimed at being trustless and provide the best odds and hightest payout percentage out there';
+const h1_presale_coming_soon = "NFT Drop Coming Soon probably lol";
+const h1_presale_mint = "Pre-Sale Minting will be open to insider trading lmao";
+const h1_public_mint = "Public Minting Open fo the next 10 seconds prob (we will sell out fast lol)";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
 const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
