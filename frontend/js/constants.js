@@ -1,7 +1,7 @@
 const contractAddress = "0xbd8147EFf984F70c723B442412E6A8968551a568"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the fucking test of PolyRaffle website frontend!";
+const welcome_h1 = "Welcome to the fuckingg test of PolyRaffle website frontend!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'PolyRaffle is a decentralized lottery aimed at being trustless and provide the best odds and hightest payout percentage out there';
 const h1_presale_coming_soon = "NFT Drop Coming Soon probably lol";
